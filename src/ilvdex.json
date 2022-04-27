@@ -1,0 +1,18 @@
+[
+    {   
+        "atlas": "Atlas",
+        "id": 1,
+        "masteryPi": "https://infoluvial.io/wp-content/uploads/2022/04/Mastery-Points-icon.png",
+        "affinityWateri": "https://infoluvial.io/wp-content/uploads/2022/03/Water-Affinity-icon-e1650077659844.png",
+        "classBulwarki": "https://infoluvial.io/wp-content/uploads/2022/03/Bulwark-Class-icon-e1650057040297.png",
+        "stage-1i": "https://infoluvial.io/wp-content/uploads/2022/04/Illuvial-icon-stage1.png",
+        "tier1i": "https://infoluvial.io/wp-content/uploads/2022/04/Tier1-icon.png",
+        "healthi": "https://infoluvial.io/wp-content/uploads/2022/04/Health-icon.png",
+        "attacki": "https://infoluvial.io/wp-content/uploads/2022/04/Attack-Damage-icon.png",
+        "defensei": "https://infoluvial.io/wp-content/uploads/2022/04/Attack-Resist-icon.png",
+        "speedi": "https://infoluvial.io/wp-content/uploads/2022/04/Attack-Speed-icon.png",
+        "criti": "https://infoluvial.io/wp-content/uploads/2022/04/Accuracy-icon.png",
+        "energyResi": "https://infoluvial.io/wp-content/uploads/2022/04/Energy-Resist-icon.png"
+    }
+]
+
